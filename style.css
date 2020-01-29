@@ -1,0 +1,21 @@
+.nums{
+    padding: 15px;
+    width: 50px;
+}
+.equals{
+    padding: 15px;
+    width: 200px;
+}
+.main{
+    width: 68%
+}
+.result{
+    height: 70px;
+}
+.full{
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+}
+.right{
+    background:#1E1E1E;
+}
